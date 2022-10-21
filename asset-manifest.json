@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/unsplash-photos/static/css/main.b9bdc3ed.css",
+    "main.js": "/unsplash-photos/static/js/main.1cefde64.js",
+    "index.html": "/unsplash-photos/index.html",
+    "static/media/close.svg": "/unsplash-photos/static/media/close.e411024cd4b7e6e8be14.svg",
+    "static/media/search.svg": "/unsplash-photos/static/media/search.7d9ec8d5dfb59ed04cf40895789d4cec.svg",
+    "static/media/logo.svg": "/unsplash-photos/static/media/logo.c84da0723246b278f80dbf09ac3b7357.svg"
+  },
+  "entrypoints": [
+    "static/css/main.b9bdc3ed.css",
+    "static/js/main.1cefde64.js"
+  ]
+}
