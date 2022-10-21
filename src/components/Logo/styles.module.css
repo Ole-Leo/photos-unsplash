@@ -1,0 +1,11 @@
+.link {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+
+  font-size: 32px;
+  font-weight: 600;
+
+  color: #111;
+  text-decoration: none;
+}

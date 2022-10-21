@@ -1,0 +1,40 @@
+.search {
+  display: flex;
+  padding: 6px 16px;
+
+  width: 50%;
+
+  border: 1px solid #111;
+  border-radius: 24px;
+}
+
+.input {
+  padding-left: 5px;
+
+  width: 100%;
+
+  font-family: inherit;
+  font-size: 16px;
+
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.input::placeholder {
+  color: #555;
+}
+
+.input::-webkit-search-cancel-button {
+  appearance: none;
+  height: 10px;
+  width: 10px;
+
+  background-image: url(../../assets/close.svg);
+  cursor: pointer;
+}
+
+.input:focus::placeholder {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
