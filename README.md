@@ -5,8 +5,9 @@
 
 ### Технологии
 
-React, Typescript
-В приложении использовался пакет для расположения альбома фотографий [React Photo Album](https://www.npmjs.com/package/react-photo-album)
+React, Typescript, CSS
+
+В приложении использовался пакет для создания альбома фотографий [React Photo Album](https://www.npmjs.com/package/react-photo-album)
 
 ### Установка и запуск приложения
 
