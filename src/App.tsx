@@ -16,7 +16,6 @@ function App() {
   const changeHandler = (event: React.ChangeEvent<HTMLInputElement>) => {
     const { value } = event.target;
     setQuery(value);
-    setPhotos([]);
   };
 
   const keyDownHandler = (event: React.KeyboardEvent) => {
@@ -28,6 +27,7 @@ function App() {
   const clickHandler = (event: React.MouseEvent) => {
     const { src } = event.currentTarget as HTMLImageElement;
     setScr(src);
+    setPhotos([]);
     localStorage.setItem('bg', src);
   };
 
