@@ -12,13 +12,22 @@ React, Typescript, CSS
 ### Установка и запуск приложения
 
 Для установки приложения необходисо клонировать репозиторий
-`https://github.com/Ole-Leo/photos-unsplash.git`
+
+```
+https://github.com/Ole-Leo/photos-unsplash.git
+```
 
 Установить зависимости
-`npm i`
+
+```
+npm i
+```
 
 Запустить проект
-`npm start`
+
+```
+npm start
+```
 
 Для корректной работы приложения необходимо иметь API-key сервиса [Unsplash](https://unsplash.com/). Получить свой ключ можно [здесь](https://unsplash.com/developers)
 Полученный API-key необходимо записать в поле 'REACT_APP_UNSPLASH_API_KEY=' в файле env.example и переименовать данный файл в .env
