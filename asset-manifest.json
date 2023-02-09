@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/photos-unsplash/static/css/main.e086a48f.css",
-    "main.js": "/photos-unsplash/static/js/main.b5444a8e.js",
+    "main.js": "/photos-unsplash/static/js/main.03e5cef0.js",
     "index.html": "/photos-unsplash/index.html",
     "static/media/close.svg": "/photos-unsplash/static/media/close.e411024cd4b7e6e8be14.svg",
     "static/media/search.svg": "/photos-unsplash/static/media/search.7d9ec8d5dfb59ed04cf40895789d4cec.svg",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.e086a48f.css",
-    "static/js/main.b5444a8e.js"
+    "static/js/main.03e5cef0.js"
   ]
 }
