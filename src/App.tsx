@@ -16,6 +16,7 @@ function App() {
   const changeHandler = (event: React.ChangeEvent<HTMLInputElement>) => {
     const { value } = event.target;
     setQuery(value);
+    setPhotos([]);
   };
 
   const keyDownHandler = (event: React.KeyboardEvent) => {
